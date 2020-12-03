@@ -37,4 +37,4 @@
 
 - 进入[传送门](http://sc.ftqq.com/?c=github&a=login)  
 - 登录你刚才注册的 Github 帐号，接着按图操作，最后将复制的 sckey 按照上面的教程填入即可  
-  ![DHmwan.png](https://s3.ax1x.com/2020/12/04/DHmwan.png)]
+  ![DHmwan.png](https://s3.ax1x.com/2020/12/04/DHmwan.png)
